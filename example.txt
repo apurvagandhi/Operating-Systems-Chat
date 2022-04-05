@@ -1,0 +1,31 @@
+show the time
+help
+how are you
+show your name
+who am i
+show your id
+show your parent's id
+show your age
+sleep 3.5
+show your age
+say hi
+say hello world
+say I like programming
+where am i
+list .
+list /
+list /bin
+list /home/fac/csci346/public_html
+open chat.c
+read 3
+read 3
+read 3
+open /etc/os-release
+read 4
+close 3
+close 4
+show the time
+go to /tmp
+where am i
+list .
+quit

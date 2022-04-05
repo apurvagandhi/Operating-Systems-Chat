@@ -1,0 +1,27 @@
+Collabration Log
+Name: Apurva Gandhi
+Instructor: Professor Walsh
+Date: February 2, 2022
+Course: CSCI346
+Assignment: Project0
+
+
+01/30	30 mintues
+	Read through the project entirely to get started
+
+02/01	About 3-4 hours
+	Worked on my own to get started on the project with code
+
+02/01	2.5 hours
+	Discussed with Margaret Haley and Michael about open, read, and closing of file. 
+
+02/02   1 hour
+	Worked on my own to add more functionality
+
+02/02	1 hour
+	worked on my own to reorganize the structure and started error checking
+02/02	5 hours
+	worked on my own to reorganize and restructure the code. I also added a lot of error checking.
+	Discussed about error checking with John for few mintues. 
+
+Resources: Mostly consulted the Linux API website. I also searched on google for few things and learned different things from stack over flow and w3schools. 

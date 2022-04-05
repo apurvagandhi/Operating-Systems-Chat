@@ -1,0 +1,324 @@
+Welcome to chat assistant!
+The time is 1579581816 seconds and 9345208 nanoseconds since midnight, Jan 1, 1970.
+Type "help" if you are lost.
+What next? The time is 1579581816 seconds and 9535275 nanoseconds since midnight, Jan 1, 1970.
+What next? I know how to respond to these commands:
+  help
+  who am i
+  show the time
+  show your name
+  show your age
+  show your id
+  show your parent's id
+  say [any phrase]
+  sleep [amount of time]
+  where am i
+  go to [dirname]
+  list [dirname]
+  open [filename]
+  read [file number]
+  close [file number]
+  quit
+What next? I am fine, thanks.
+What next? My name is Frank.
+What next? You are kwalsh, silly.
+What next? My id is process 74619.
+What next? My parent's id is process 74579.
+What next? I am about 0 seconds old.
+What next? Going to sleep for 3.500000 seconds...
+OK, that was a nice nap.
+What next? I am about 3 seconds old.
+What next? hi
+What next? hello world
+What next? I like programming
+What next? You are in directory /home/fac/kwalsh/project0
+What next? OK, here are the things in directory .:
+.
+example.txt
+solution.txt
+helloworld.c
+helloworld
+..
+chat.c
+chat
+What next? OK, here are the things in directory /:
+srv.o
+..
+lib32
+lib
+lib64
+oracle
+etc
+run
+media
+tmpb51FKe.sh
+sbin
+bin
+boot-alt
+proc
+var
+mnt
+lost+found
+boot
+initrd.img.old
+initrd.img
+vmlinuz.old
+usr
+libx32
+home
+snap
+sys
+opt
+.
+tmp
+dev
+web
+root
+vmlinuz
+srv
+What next? OK, here are the things in directory /bin:
+.
+..
+fuser
+cpio
+lsblk
+pwd
+openvt
+sh
+kill
+udevadm
+btrfs-zero-log
+ntfs-3g
+mknod
+netstat
+echo
+red
+systemd-tty-ask-password-agent
+chmod
+bzip2
+dnsdomainname
+tar
+unicode_start
+ypdomainname
+domainname
+systemctl
+touch
+kbd_mode
+nc
+mkdir
+ntfscat
+bunzip2
+dumpkeys
+systemd-hwdb
+lessecho
+whiptail
+ulockmgr_server
+systemd-inhibit
+ping
+true
+kmod
+more
+less
+btrfs-debug-tree
+bzcat
+ntfsfallocate
+sleep
+hciconfig
+networkctl
+ntfscmp
+sed
+mkfs.btrfs
+bsd-csh
+plymouth
+egrep
+ntfsmove
+systemd-machine-id-setup
+ntfs-3g.secaudit
+mt
+open
+zmore
+bzfgrep
+chacl
+mt-gnu
+rm
+fsck.btrfs
+mv
+nisdomainname
+zless
+hc
+chgrp
+loginctl
+lessfile
+bzip2recover
+nbd-trdump
+readlink
+systemd-notify
+findmnt
+ss
+chvt
+ntfs-3g.probe
+run-parts
+tempfile
+stty
+lowntfs-3g
+systemd-tmpfiles
+rmdir
+vmmouse_detect
+date
+false
+setupcon
+ntfs-3g.usermap
+btrfs-find-root
+zdiff
+netcat
+rnano
+ip
+which
+btrfsck
+btrfs-select-super
+efibootmgr
+static-sh
+getfacl
+journalctl
+dir
+systemd
+csh
+bzegrep
+ntfscluster
+mountpoint
+btrfs-image
+ntfsls
+mktemp
+nano
+sh.distrib
+btrfs-calc-size
+setfacl
+uncompress
+ntfsinfo
+zgrep
+uname
+bzmore
+grep
+ln
+bzless
+ntfsfix
+zcmp
+fgrep
+pidof
+btrfs-show-super
+gunzip
+tailf
+ls
+chown
+ed
+dash
+zfgrep
+fusermount
+nbd-server
+ntfswipe
+bzdiff
+dmesg
+fgconsole
+rbash
+tcsh
+loadkeys
+ping6
+cp
+zcat
+vdir
+keyctl
+bash
+zegrep
+systemd-ask-password
+zforce
+systemd-escape
+nc.openbsd
+hostname
+btrfs
+mount
+umount
+znew
+lesspipe
+login
+btrfs-map-logical
+ntfstruncate
+lesskey
+sync
+df
+wdctl
+btrfs-convert
+dd
+lsmod
+ps
+cat
+gzexe
+bzcmp
+busybox
+setfont
+bzgrep
+gzip
+bzexe
+btrfstune
+su
+What next? OK, here are the things in directory /home/fac/csci346/public_html:
+resources.html
+slidelinks.js
+schedule.html
+assignments.html
+assn
+markdown.js
+.
+csci346.css
+index.html
+..
+mac.png
+mac.xcf
+csci346print.css
+strapdown.min.js
+What next? OK, I just opened file number 3.
+What next? The next line of file 3 is: // chat - a simple shell
+What next? The next line of file 3 is: // Author: K. Walsh
+What next? The next line of file 3 is: // Date: 3 January 2020
+What next? OK, I just opened file number 4.
+What next? The next line of file 4 is: NAME="Ubuntu"
+What next? Closed the file 3.
+What next? Closed the file 4.
+What next? The time is 1579581819 seconds and 513647702 nanoseconds since midnight, Jan 1, 1970.
+What next? OK, you are now in directory /tmp
+What next? OK, here are the things in directory .:
+.
+..
+bin
+boot
+boot-alt
+core
+dev
+etc
+home
+initrd.img
+initrd.img.old
+lib
+lib32
+lib64
+libx32
+lost+found
+media
+mnt
+opt
+oracle
+proc
+root
+run
+sbin
+snap
+srv
+srv.o
+sys
+tmp
+tmpb51FKe.sh
+usr
+var
+vmlinuz
+vmlinuz.old
+web
+What next? Bye bye now!
